@@ -15,8 +15,8 @@
   "block.abundance.sunny_marigold": "Calendula assolata",
   "block.abundance.shady_marigold": "Calendula ombreggiata",
   "block.abundance.tall_marigold": "Calendula alta",
-  "block.abundance.potted_sunny_marigold": "Calendula assolata in vaso",
-  "block.abundance.potted_shady_marigold": "Calendula ombreggiata in vaso",
+  "block.abundance.potted_sunny_marigold": "Vaso con calendula assolata",
+  "block.abundance.potted_shady_marigold": "Vaso con calendula ombreggiata",
 
 
   "_comment2": "Jacaranda Trees",
@@ -49,7 +49,7 @@
   "block.abundance.jacaranda_post": "Palo di jacaranda",
   "block.abundance.stripped_jacaranda_post": "Palo di jacaranda scortecciato",
   "block.abundance.jacaranda_beehive": "Arnia di jacaranda",
-  "block.abundance.potted_jacaranda_sapling": "Arboscello di jacaranda in vaso",
+  "block.abundance.potted_jacaranda_sapling": "Vaso con arboscello di jacaranda",
 
   "item.abundance.jacaranda_boat": "Barca di jacaranda",
 
@@ -89,7 +89,7 @@
   "block.abundance.redbud_post": "Palo di siliquastro",
   "block.abundance.stripped_redbud_post": "Palo di siliquastro scortecciato",
   "block.abundance.redbud_beehive": "Arnia di siliquastro",
-  "block.abundance.potted_redbud_sapling": "Alberello di siliquastro in vaso",
+  "block.abundance.potted_redbud_sapling": "Vaso con alberello di siliquastro",
 
   "item.abundance.redbud_boat": "Barca di siliquastro",
 
@@ -100,7 +100,7 @@
   "block.abundance.flowering_redbud_log": "Tronco di siliquastro fiorente",
   "block.abundance.flowering_redbud_wood": "Legno di siliquastro fiorente",
   "block.abundance.flowering_redbud_sapling": "Arboscello di siliquastro fiorente",
-  "block.abundance.potted_flowering_redbud_sapling": "Arboscello di siliquastro fiorente in vaso",
+  "block.abundance.potted_flowering_redbud_sapling": "Vaso con arboscello di siliquastro fiorente",
 
   "item.abundance.pink_blossoms": "Fiori rosa",
   "block.abundance.pink_blossom_carpet": "Tappeto di fiori rosa",
@@ -121,9 +121,9 @@
   "block.abundance.chicory": "Cicoria",
   "block.abundance.nemophila": "Nemophila",
 
-  "block.abundance.potted_amaranthus": "Amaranto in vaso",
-  "block.abundance.potted_chicory": "Cicoria in vaso",
-  "block.abundance.potted_nemophila": "Nemophila in vaso",
+  "block.abundance.potted_amaranthus": "Vaso con amaranto",
+  "block.abundance.potted_chicory": "Vaso con cicoria",
+  "block.abundance.potted_nemophila": "Vaso con nemophila",
 
   "_comment7": "Misc",
   "item.abundance.sunflower_seeds": "Semi di girasole",
