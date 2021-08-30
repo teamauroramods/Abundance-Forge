@@ -117,14 +117,37 @@
 
 
   "_comment6": "Flowers",
+  "block.abundance.pink_daisy": "Margherita rosa",
+  "block.abundance.purple_daisy": "Margherita viola",
+  "block.abundance.magenta_daisy": "Margherita magenta",
+  "block.abundance.yellow_daisy": "Margherita gialla",
+  "block.abundance.orange_daisy": "Margherita arancione",
+  "block.abundance.red_daisy": "Margherita rossa",
+  "block.abundance.blue_daisy": "Margherita blu",
+  "block.minecraft.oxeye_daisy": "Margherita bianca",
+  
   "block.abundance.amaranthus": "Amaranto",
   "block.abundance.chicory": "Cicoria",
   "block.abundance.nemophila": "Nemophila",
+  "block.abundance.myosotis": "Myosotis",
+  "block.abundance.fiddleneck": "Fiddleneck",
+  "block.abundance.heliconia": "Heliconia",
+
+  "block.abundance.potted_pink_daisy": "Vaso con margherita rosa",
+  "block.abundance.potted_purple_daisy": "Vaso con margherita viola",
+  "block.abundance.potted_magenta_daisy": "Vaso con margherita magenta",
+  "block.abundance.potted_yellow_daisy": "Vaso con margherita gialla",
+  "block.abundance.potted_orange_daisy": "Vaso con margherita arancione",
+  "block.abundance.potted_red_daisy": "Vaso con margherita rossa",
+  "block.abundance.potted_blue_daisy": "Vaso con margherita blu",
+  "block.minecraft.potted_oxeye_daisy": "Vaso con margherita bianca",
 
   "block.abundance.potted_amaranthus": "Vaso con amaranto",
   "block.abundance.potted_chicory": "Vaso con cicoria",
   "block.abundance.potted_nemophila": "Vaso con nemophila",
-
+  "block.abundance.potted_myosotis": "Vaso con myosotis",
+  "block.abundance.potted_fiddleneck": "Vaso con fiddleneck",
+  
   "_comment7": "Misc",
   "item.abundance.sunflower_seeds": "Semi di girasole",
   "item.abundance.screecher_tail": "Coda di strillatore",
